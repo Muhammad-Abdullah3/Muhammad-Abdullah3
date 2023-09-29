@@ -14,6 +14,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abdullah3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Abdullah's Github Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
