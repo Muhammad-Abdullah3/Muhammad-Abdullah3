@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="300" />
 </div>
-# 💫 About Me:
+<h2>About Me:</h2><br>
 🔭 I’m currently working on a Robo Speaker<br>👯 I’m looking to collaborate on Bone Fracture Classification<br>🌱 I’m currently learning DSA in C++<br>💬 Ask me about Python, SQL, Github<br>⚡ I like to write
 
 
